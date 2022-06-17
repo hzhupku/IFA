@@ -1,2 +1,3 @@
-# IFA
-Learning Implicit Feature Alignment Function for Semantic Segmentation
+# Learning Implicit Feature Alignment Function for Semantic Segmentation
+
+Code will be available soon.
